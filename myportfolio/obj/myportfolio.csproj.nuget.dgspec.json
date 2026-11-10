@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhrbe\\RiderProjects\\myportfolioWpFw\\myportfolio\\myportfolio.csproj": {}
+    "C:\\Users\\dhrbe\\Desktop\\multilayer webapplications\\websiteportfolio\\myportfolio\\myportfolio\\myportfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhrbe\\RiderProjects\\myportfolioWpFw\\myportfolio\\myportfolio.csproj": {
+    "C:\\Users\\dhrbe\\Desktop\\multilayer webapplications\\websiteportfolio\\myportfolio\\myportfolio\\myportfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhrbe\\RiderProjects\\myportfolioWpFw\\myportfolio\\myportfolio.csproj",
+        "projectUniqueName": "C:\\Users\\dhrbe\\Desktop\\multilayer webapplications\\websiteportfolio\\myportfolio\\myportfolio\\myportfolio.csproj",
         "projectName": "myportfolio",
-        "projectPath": "C:\\Users\\dhrbe\\RiderProjects\\myportfolioWpFw\\myportfolio\\myportfolio.csproj",
+        "projectPath": "C:\\Users\\dhrbe\\Desktop\\multilayer webapplications\\websiteportfolio\\myportfolio\\myportfolio\\myportfolio.csproj",
         "packagesPath": "C:\\Users\\dhrbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhrbe\\RiderProjects\\myportfolioWpFw\\myportfolio\\obj\\",
+        "outputPath": "C:\\Users\\dhrbe\\Desktop\\multilayer webapplications\\websiteportfolio\\myportfolio\\myportfolio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\dhrbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
